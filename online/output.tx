@@ -1,0 +1,109 @@
+==================================================
+ ONLINE SHOPPING CART - SESSION LOG
+Started at: 2025-04-05 14:25:30.789123
+==================================================
+
+  ONLINE SHOPPING CART
+1. Register
+2. Login
+3. Browse Products (Guest)
+4. Exit
+Choose: 1
+
+ REGISTER
+Username: ravi_kumar
+Password (min 6 chars): secure123
+Email: ravi.kumar@india.com
+ Registered successfully: ravi_kumar
+
+  ONLINE SHOPPING CART
+1. Register
+2. Login
+3. Browse Products (Guest)
+4. Exit
+Choose: 2
+
+ LOGIN
+Username: ravi_kumar
+Password: secure123
+ Logged in as ravi_kumar
+
+ ACCOUNT: ravi_kumar
+ATM MENU
+1. Browse Products
+2. Add to Cart
+3. View Cart
+4. Place Order
+5. Logout
+Choose an option (1-5): 1
+
+ AVAILABLE PRODUCTS:
+------------------------------------------------------------
+[P001] Laptop - ₹50000.00 (10 in stock)
+[P002] Mouse - ₹500.00 (50 in stock)
+[P003] Keyboard - ₹1200.00 (30 in stock)
+[P004] Smartphone - ₹15000.00 (8 in stock)
+[P005] Earphones - ₹800.00 (100 in stock)
+------------------------------------------------------------
+
+Choose an option (1-5): 2
+------------------------------------------------------------
+[P001] Laptop - ₹50000.00 (10 in stock)
+[P002] Mouse - ₹500.00 (50 in stock)
+[P003] Keyboard - ₹1200.00 (30 in stock)
+[P004] Smartphone - ₹15000.00 (8 in stock)
+[P005] Earphones - ₹800.00 (100 in stock)
+------------------------------------------------------------
+Enter Product ID: P001
+Quantity: 1
+ Added 1x Laptop to cart.
+
+Choose an option (1-5): 2
+Enter Product ID: P002
+Quantity: 2
+ Added 2x Mouse to cart.
+
+Choose an option (1-5): 2
+Enter Product ID: P005
+Quantity: 1
+Added 1x Earphones to cart.
+
+Choose an option (1-5): 3
+
+ YOUR CART:
+------------------------------------------------------------
+Laptop x1 = ₹50000.00
+Mouse x2 = ₹1000.00
+Earphones x1 = ₹800.00
+------------------------------------------------------------
+ TOTAL: ₹51800.00
+
+Choose an option (1-5): 4
+ Order ORD-20250405142610 placed successfully! Total: ₹51800.00
+
+Choose an option (1-5): 5
+ Logged out ravi_kumar
+
+ ONLINE SHOPPING CART
+1. Register
+2. Login
+3. Browse Products (Guest)
+4. Exit
+Choose: 3
+
+ AVAILABLE PRODUCTS:
+------------------------------------------------------------
+[P001] Laptop - ₹50000.00 (9 in stock)
+[P002] Mouse - ₹500.00 (48 in stock)
+[P003] Keyboard - ₹1200.00 (30 in stock)
+[P004] Smartphone - ₹15000.00 (8 in stock)
+[P005] Earphones - ₹800.00 (99 in stock)
+------------------------------------------------------------
+
+  ONLINE SHOPPING CART
+1. Register
+2. Login
+3. Browse Products (Guest)
+4. Exit
+Choose: 4
+Thank you for visiting!

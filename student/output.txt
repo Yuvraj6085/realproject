@@ -1,0 +1,54 @@
+==================================================
+ STUDENT MANAGEMENT SYSTEM - SESSION LOG
+Started at: 2025-04-05 11:30:22.123456
+==================================================
+
+ STUDENT MANAGEMENT SYSTEM
+Loading students from data/students.json...
+
+1. Adding new students...
+ Added: Aarav Sharma
+ Added: Priya Patel
+ Added: Vihaan Reddy
+
+2. Viewing all students...
+
+====================================================================================================
+STUDENT LIST
+====================================================================================================
+ID: S001 | Name: Aarav Sharma | Age: 19 | Email: aarav.sharma@college.ac.in | Courses: None
+ID: S002 | Name: Priya Patel | Age: 20 | Email: priya.patel@college.ac.in | Courses: None
+ID: S003 | Name: Vihaan Reddy | Age: 18 | Email: vihaan.reddy@college.ac.in | Courses: None
+====================================================================================================
+
+3. Searching for 'Priya'...
+ Found: ID: S002 | Name: Priya Patel | Age: 20 | Email: priya.patel@college.ac.in | Courses: None
+
+4. Enrolling Priya in courses...
+ Enrolled Priya Patel in Mathematics with grade A.
+ Enrolled Priya Patel in Physics with grade A.
+ Enrolled Priya Patel in Chemistry with grade B.
+
+5. Viewing Priya's courses...
+
+ Priya Patel's Courses:
+  Mathematics: A
+  Physics: A
+  Chemistry: B
+
+6. Updating Aarav's email...
+ Updated: Aarav Sharma
+
+7. Deleting student S003 (Vihaan)...
+ Deleted: Vihaan Reddy
+
+8. Final student list:
+
+====================================================================================================
+STUDENT LIST
+====================================================================================================
+ID: S001 | Name: Aarav Sharma | Age: 19 | Email: aarav.tech@college.ac.in | Courses: None
+ID: S002 | Name: Priya Patel | Age: 20 | Email: priya.patel@college.ac.in | Courses: Mathematics(A), Physics(A), Chemistry(B)
+====================================================================================================
+
+Session ended.
